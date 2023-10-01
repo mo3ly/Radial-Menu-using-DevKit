@@ -3,7 +3,7 @@
 
 ## ❒ HI EVERYONE,
 
-I saw a very cool feature on Electus Online called Orbit menu which has a range of commands around a circle. These commands make accessing game features easily. So, I managed to implement that feature using DevKit and Electus assets.
+I saw a very cool feature on Electus Online called Orbit menu which has a range of commands around a circle. These commands make accessing game features easily. I've managed to implement that feature using DevKit and Electus assets. The feature was released by me on [Elitepvpers](https://www.elitepvpers.com/forum/sro-pserver-guides-releases/5000981-release-radial-menu-using-devkit.html).
 
 ---
 
